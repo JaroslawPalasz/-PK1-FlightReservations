@@ -1,0 +1,14 @@
+SK372 01/02/2020 Katowice Rzym Jan Kowalski 20
+MS410 01/02/2020 Gdansk Paryz Ferdynand Billewicz 12
+KG902 01/03/2020 Milan Belgrad Henryk Dabrowski 03
+GH117 02/10/2020 Wieden Zurych Miroslaw Lubecki 01
+SK372 01/02/2020 Katowice Rzym Marta Czyzykowska 26
+SK372 01/02/2020 Katowice Rzym Witold Glebski 13
+MS410 01/02/2020 Gdansk Paryz Jan Morawiecki 10
+MS410 01/02/2020 Gdansk Paryz Adam Czartoryski 23
+KG902 01/03/2020 Milan Belgrad Katarzyna Wysocka 04
+KG902 01/03/2020 Milan Belgrad Andrzej Ignatowicz 64
+GH117 02/10/2020 Wieden Zurych Jadwiga Gorska 11
+GH117 02/10/2020 Wieden Zurych Janusz Adamski 30
+GH117 02/10/2020 Wieden Zurych Andrzej Sosnicki 91
+GH117 02/10/2020 Wieden Zurych Joachim Handel 97
